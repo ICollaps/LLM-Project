@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+LLM-env/
+
+
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 build/
